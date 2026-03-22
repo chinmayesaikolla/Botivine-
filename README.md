@@ -36,3 +36,5 @@ Board: ESP32 Dev Module
 Flash idp_final_code.ino
 Connect to Wi-Fi: MobileManipulator · password: 12345678
 Open browser → 192.168.4.1
+
+Built at VFSTR · Jan–Mar 2025
